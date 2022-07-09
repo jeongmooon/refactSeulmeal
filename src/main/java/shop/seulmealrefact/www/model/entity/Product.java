@@ -1,4 +1,4 @@
-package shop.seulmealrefact.www.entity;
+package shop.seulmealrefact.www.model.entity;
 
 import org.springframework.context.annotation.Primary;
 
